@@ -148,7 +148,7 @@ export default function Index() {
             <span className="text-xl font-bold text-gray-900">Applianzy</span>
           </div>
           <Button
-            onClick={() => window.open('https://wa.me/1234567890?text=Hi,%20I%20need%20help%20with%20my%20programming%20assignment', '_blank')}
+            onClick={() => window.open('https://wa.me/923431074543?text=Hi,%20I%20need%20help%20with%20my%20programming%20assignment', '_blank')}
             className="bg-green-600 hover:bg-green-700"
           >
             <MessageCircle className="mr-2 w-4 h-4" />
@@ -196,7 +196,7 @@ export default function Index() {
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <Button
                 size="lg"
-                onClick={() => window.open('https://wa.me/1234567890?text=Hi,%20I%20need%20help%20with%20my%20programming%20assignment', '_blank')}
+                onClick={() => window.open('https://wa.me/923431074543?text=Hi,%20I%20need%20help%20with%20my%20programming%20assignment', '_blank')}
                 className="bg-green-600 hover:bg-green-700 text-lg px-8 py-4 h-auto"
               >
                 <MessageCircle className="mr-2 w-5 h-5" />
@@ -343,7 +343,7 @@ export default function Index() {
                   <Button
                     size="lg"
                     className="w-full bg-green-600 hover:bg-green-700 text-lg py-4 h-auto"
-                    onClick={() => window.open('https://wa.me/1234567890?text=Hi,%20I%20need%20help%20with%20my%20programming%20assignment', '_blank')}
+                    onClick={() => window.open('https://wa.me/923431074543?text=Hi,%20I%20need%20help%20with%20my%20programming%20assignment', '_blank')}
                   >
                     <MessageCircle className="mr-2 w-5 h-5" />
                     WhatsApp Us Now
