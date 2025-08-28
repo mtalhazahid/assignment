@@ -145,7 +145,7 @@ export default function Index() {
         <div className="container mx-auto px-4 py-4 flex justify-between items-center">
           <div className="flex items-center space-x-2">
             <Code className="w-8 h-8 text-blue-600" />
-            <span className="text-xl font-bold text-gray-900">Applianzy</span>
+            <span className="text-xl font-bold text-gray-900">CodeMentor</span>
           </div>
           <Button
             onClick={() => window.open('https://wa.me/923017024146?text=Hi,%20I%20need%20help%20with%20my%20programming%20assignment', '_blank')}
@@ -372,7 +372,7 @@ export default function Index() {
         <div className="container mx-auto px-4 text-center">
           <div className="flex items-center justify-center space-x-2 mb-6">
             <Code className="w-8 h-8 text-blue-400" />
-            <span className="text-2xl font-bold">Applianzy</span>
+            <span className="text-2xl font-bold">CodeMentor</span>
           </div>
           <p className="text-gray-400 mb-6">
             Empowering students to succeed in programming, one assignment at a time.
@@ -403,7 +403,7 @@ export default function Index() {
             <a href="#" className="hover:text-white transition-colors">Contact Support</a>
           </div>
           <div className="mt-6 pt-6 border-t border-gray-800 text-gray-500 text-sm">
-            © 2025 Applianzy. All rights reserved.
+            © 2025 CodeMentor. All rights reserved.
           </div>
         </div>
       </footer>
