@@ -148,7 +148,7 @@ export default function Index() {
             <span className="text-xl font-bold text-gray-900">Applianzy</span>
           </div>
           <Button
-            onClick={() => window.open('https://wa.me/923431074543?text=Hi,%20I%20need%20help%20with%20my%20programming%20assignment', '_blank')}
+            onClick={() => window.open('https://wa.me/923017024146?text=Hi,%20I%20need%20help%20with%20my%20programming%20assignment', '_blank')}
             className="bg-green-600 hover:bg-green-700"
           >
             <MessageCircle className="mr-2 w-4 h-4" />
@@ -196,7 +196,7 @@ export default function Index() {
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <Button
                 size="lg"
-                onClick={() => window.open('https://wa.me/923431074543?text=Hi,%20I%20need%20help%20with%20my%20programming%20assignment', '_blank')}
+                onClick={() => window.open('https://wa.me/923017024146?text=Hi,%20I%20need%20help%20with%20my%20programming%20assignment', '_blank')}
                 className="bg-green-600 hover:bg-green-700 text-lg px-8 py-4 h-auto"
               >
                 <MessageCircle className="mr-2 w-5 h-5" />
@@ -206,7 +206,7 @@ export default function Index() {
                 size="lg"
                 variant="outline"
                 className="text-lg px-8 py-4 h-auto border-2 border-blue-600 text-blue-600 hover:bg-blue-50"
-                onClick={() => window.location.href = 'mailto:info@tooldeluxe.com?subject=Programming%20Assignment%20Help&body=Hi,%20I%20need%20help%20with%20my%20programming%20assignment.%20Please%20contact%20me.'}
+                onClick={() => window.location.href = 'mailto:talhashehroze@gmail.com?subject=Programming%20Assignment%20Help&body=Hi,%20I%20need%20help%20with%20my%20programming%20assignment.%20Please%20contact%20me.'}
               >
                 <Mail className="mr-2 w-5 h-5" />
                 Email Us
@@ -343,7 +343,7 @@ export default function Index() {
                   <Button
                     size="lg"
                     className="w-full bg-green-600 hover:bg-green-700 text-lg py-4 h-auto"
-                    onClick={() => window.open('https://wa.me/923431074543?text=Hi,%20I%20need%20help%20with%20my%20programming%20assignment', '_blank')}
+                    onClick={() => window.open('https://wa.me/923017024146?text=Hi,%20I%20need%20help%20with%20my%20programming%20assignment', '_blank')}
                   >
                     <MessageCircle className="mr-2 w-5 h-5" />
                     WhatsApp Us Now
@@ -352,7 +352,7 @@ export default function Index() {
                     size="lg"
                     variant="outline"
                     className="w-full text-lg py-4 h-auto border-2 border-blue-600 text-blue-600 hover:bg-blue-50"
-                    onClick={() => window.location.href = 'mailto:info@tooldeluxe.com?subject=Programming%20Assignment%20Help&body=Hi,%20I%20need%20help%20with%20my%20programming%20assignment.%20Please%20contact%20me.'}
+                    onClick={() => window.location.href = 'mailto:talhashehroze@gmail.com?subject=Programming%20Assignment%20Help&body=Hi,%20I%20need%20help%20with%20my%20programming%20assignment.%20Please%20contact%20me.'}
                   >
                     <Mail className="mr-2 w-5 h-5" />
                     Email Us
@@ -391,7 +391,7 @@ export default function Index() {
               variant="outline"
               size="sm"
               className="border-gray-600 text-gray-300 hover:bg-gray-800 hover:text-white"
-              onClick={() => window.location.href = 'mailto:info@tooldeluxe.com?subject=Programming%20Assignment%20Help'}
+              onClick={() => window.location.href = 'mailto:talhashehroze@gmail.com?subject=Programming%20Assignment%20Help'}
             >
               <Mail className="mr-2 w-4 h-4" />
               Email
